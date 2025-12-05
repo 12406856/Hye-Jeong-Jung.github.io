@@ -9672,3 +9672,15 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+#resume-section .page {
+  margin-top: 0 !important;
+}
+
+#resume-section .page + .page {
+  margin-top: 80px;
+}
+
+#resume-section + .ftco-project {
+  margin-top: 80px;
+}
